@@ -21,5 +21,5 @@ for i in range(n):
     points.append((x, y, quadrant))
 
 for point in points:
-    x, y, quadrant = point
+    x, y, quadrant = point #unpacking
     print("Thoe point ({}, {}) belongs to quadrant {}".format(x, y, quadrant))
