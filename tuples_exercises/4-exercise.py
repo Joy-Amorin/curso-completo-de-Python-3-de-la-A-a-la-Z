@@ -6,8 +6,6 @@ grades = []
 print(subjects)
 
 s = input("Enter the subject ")
-if s == "":
-    break
 
 while s in subjects:
     grade = int(input("Enter a grede between 1 and 10 "))
