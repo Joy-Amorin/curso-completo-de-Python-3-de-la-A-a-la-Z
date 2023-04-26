@@ -20,3 +20,10 @@ Use the zip() function to create a dictionary with key words and values, their l
 in a tuple and displays the tuple and the total number of characters entered.
 HINT: To store the elements one at a time you will have to use a non-tuple data type and then transform it to a tuple.
 and then transform it to a tuple.
+
+7- Prompt the user for two integers on the keyboard. Make sure that the first one is greater than or equal to the second one.
+Perform the integer division and store in a tuple the dividend, the divisor, the quotient and the remainder of the 
+performed integer division and show the user the result on the screen.
+
+8- Prompts the user for numbers between 0 and 360. For each number, create a tuple where the first entry is that number
+and the second entry is the corresponding angular measure in radians. 
