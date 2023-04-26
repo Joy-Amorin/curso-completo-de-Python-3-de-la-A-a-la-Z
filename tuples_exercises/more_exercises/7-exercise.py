@@ -2,9 +2,6 @@
 
 print("Enter two integers")
 
-#n = int(input) = 2 
-#list_n = []
-
 for i in range(1):
     number = int(input("Enter number #1 " ))
     number_2 = int(input("Enter number #2 "))
