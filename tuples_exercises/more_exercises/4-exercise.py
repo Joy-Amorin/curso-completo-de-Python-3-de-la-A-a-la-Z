@@ -6,6 +6,6 @@ while True:
     words = sentence.split()
     if sentence == "":
         break
-    word1, *restword, word_l = words #unpacking
+    word_1, *restword, word_last = words #unpacking
     word_tuple = (word1, word_l)
     print(word_tuple)
