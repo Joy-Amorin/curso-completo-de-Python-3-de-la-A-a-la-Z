@@ -7,5 +7,5 @@ while True:
     if sentence == "":
         break
     word_1, *restword, word_last = words #unpacking
-    word_tuple = (word1, word_l)
+    word_tuple = (word_1, word_last)
     print(word_tuple)
