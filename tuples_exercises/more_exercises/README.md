@@ -15,3 +15,8 @@ and then transform it to a tuple.
 
 5- Given a list of words, create another list of the same size that stores the length of each word. 
 Use the zip() function to create a dictionary with key words and values, their length.
+
+6- Have the user enter words until he/she enters an empty word. Stores all words
+in a tuple and displays the tuple and the total number of characters entered.
+HINT: To store the elements one at a time you will have to use a non-tuple data type and then transform it to a tuple.
+and then transform it to a tuple.
