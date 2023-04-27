@@ -1,4 +1,4 @@
-#Exercises
+# Exercises
 
 - <b>1-</b> It prompts the user for the number of integers to be entered on the keyboard. For each of these numbers
 numbers, creates a tuple where the first entry is the integer and the second entry is the word "even" or "odd" 
