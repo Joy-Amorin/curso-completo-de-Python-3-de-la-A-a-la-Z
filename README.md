@@ -1,3 +1,5 @@
+<img src="https://s.udemycdn.com/meta/default-meta-image-v2.png">
+
 # Curso completo de Python 3 de la A a la Z
 
 > "Este es un curso completo, pero manteniendo la simplicidad para que aprender una tecnología como Python sea accesible para todos los estudiantes, para el lenguaje de programación Python en Udemy! Ya sea que nunca hayas programado antes, o bien ya conozcas la sintaxis básica o tal vez quieras aprender sobre las funciones avanzadas de Python"
