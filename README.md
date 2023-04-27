@@ -4,7 +4,7 @@
 
 > "This is a comprehensive course, but keeping it simple so that learning a technology like Python is accessible to all students, for the Python programming language on Udemy! Whether you've never programmed before, either you already know the basic syntax or maybe you want to learn about Python's advanced features."
 
-### Aimed at:
+## Aimed at:
 
 - Students who are new to programming for the first time.
 - Programmers who want to switch to the Python language.
