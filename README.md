@@ -2,36 +2,32 @@
 
 # Curso completo de Python 3 de la A a la Z
 
-> "Este es un curso completo, pero manteniendo la simplicidad para que aprender una tecnología como Python sea accesible para todos los estudiantes, para el lenguaje de programación Python en Udemy! Ya sea que nunca hayas programado antes, o bien ya conozcas la sintaxis básica o tal vez quieras aprender sobre las funciones avanzadas de Python"
+> "This is a comprehensive course, but keeping it simple so that learning a technology like Python is accessible to all students, for the Python programming language on Udemy! Whether you've never programmed before, either you already know the basic syntax or maybe you want to learn about Python's advanced features."
 
+Aimed at:
 
-Dirigido a:
+- Students who are new to programming for the first time.
+- Programmers who want to switch to the Python language.
+- Intermediate programmers who already know Python and want to take their programming skills to the next level.
+## Course content:
 
-- Estudiantes que se inicial por primera vez en la programación.
-- Programadores que quieran cambiarse al lenguaje Python.
-- Programadores intermedios que ya sepan Python y quieran elevar sus habilidades de programación al siguiente nivel
-
-## contenido del curso:
-- Tema 1- Python básico
-- Tema 2- Números en python
-- Tema 3- Strings en python
-- Tema 4- Operadores de desición
-- Tema 5- Operadores de iteración
-- Tema 6- Estructuras de datos: listas
-- Tema 7- Estructuras de datos: diccionarios
-- Tema 8- Estructuras de datos: conjuntos
-- Tema 9- Estructuras de datos: tuplas
-- Tema 10- Funciones en python
-- Tema 11- Funciones Lambda
-- Tema 12- Dataframes con el módulo pandas
-- Tema 13- Programación orientada a objetos
-- Tema 14- Scipts y módulos en python
-- Tema 15- Módulos de python: math y cmath
-- Tema 16- Módulos de python: numpy
-- tema 17- Representación gráfica en python
-- Tema 18- trabajando con archivos txt en python
-- tema 19- Errores y excepciones en python
-- Proyecto final
-
-
-
+- Topic 1- Basic Python
+- Topic 2- Numbers in Python
+- Topic 3- Strings in Python
+- Topic 4- Disposition operators
+- Topic 5- Iteration operators
+- Topic 6- Data structures: lists
+- Topic 7- Data structures: dictionaries
+- Topic 8- Data structures: sets
+- Topic 9- Data Structures: tuples
+- Topic 10- Python Functions
+- Topic 11- Lambda functions
+- Topic 12- Dataframes with the pandas module
+- Topic 13- Object-oriented programming
+- Topic 14- Scipts and modules in python
+- Topic 15- Python modules: math and cmath
+- Topic 16- Python modules: numpy
+- Topic 17- Graphical representation in python
+- Topic 18- Working with txt files in python
+- topic 19- Errors and exceptions in python
+- Final project
