@@ -1,4 +1,4 @@
-# Ecersises
+# Excersises
 
 - <b>1-</b> Given a list of characters, we will ask the user which item he/she wants to delete and remove it from the list.
 
