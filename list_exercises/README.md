@@ -10,3 +10,7 @@ and finally displays the inverted sequence.
 
 - <b>4-</b> Create a program that reads two strings of the same length, stores them interleaved in a list. Finally,
 display the contents of the list.
+
+<b>5-</b> Create a program that reads a string and stores all the consonants in a list.
+
+<b>6-</b> Create a program that reads a word, stores it in a list and checks if it is a palindrome.
