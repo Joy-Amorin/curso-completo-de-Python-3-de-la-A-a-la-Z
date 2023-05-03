@@ -1,4 +1,4 @@
-##Exercises
+# Exercises
 
 - <b>1-</b> We are going to make the user fill in a customer file and we are going to save all the information in a dictionary. 
 To do this, we are going to ask for the name, surname, age, ID number and the total amount of money the customer is going to pay.
